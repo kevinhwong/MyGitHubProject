@@ -1,0 +1,94 @@
+body{text-align: center;
+font-family: Times;
+background-color:#FFFAFA;
+}
+
+#Table2{text-align: center;
+}
+
+#BANANA{font-weight: bold;
+		font-size:22px;
+  }
+
+#tuna{border:1px solid gray;
+    position:fixed;
+    top:15px;
+    left:105px;
+  }
+
+#tuna{
+  cursor: pointer;
+}
+
+#B3 {
+  cursor: pointer;
+}
+#B2 {
+  cursor: pointer;
+}
+#B1 {
+  cursor: pointer;
+}
+#B0 {
+  cursor: pointer;
+}
+#C3 {
+  cursor: pointer;
+}
+#C2 {
+  cursor: pointer;
+}
+#C1 {
+  cursor: pointer;
+}
+#C0 {
+  cursor: pointer;
+}
+#D3 {
+  cursor: pointer;
+}
+#D2 {
+  cursor: pointer;
+}
+#D1 {
+  cursor: pointer;
+}
+#D0 {
+  cursor: pointer;
+}
+#E3 {
+  cursor: pointer;
+}
+#E2 {
+  cursor: pointer;
+}
+#E1 {
+  cursor: pointer;
+}
+#E0 {
+  cursor: pointer;
+}
+#F3 {
+  cursor: pointer;
+}
+#F2 {
+  cursor: pointer;
+}
+#F1 {
+  cursor: pointer;
+}
+#F0 {
+  cursor: pointer;
+}
+#G3 {
+  cursor: pointer;
+}
+#G2 {
+  cursor: pointer;
+}
+#G1 {
+  cursor: pointer;
+}
+#G0 {
+  cursor: pointer;
+}
