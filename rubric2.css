@@ -10,11 +10,7 @@ background-color:#FFFAFA;
 		font-size:22px;
   }
 
-#tuna{border:1px solid gray;
-    position:fixed;
-    top:15px;
-    left:105px;
-  }
+
 
 #tuna{
   cursor: pointer;
